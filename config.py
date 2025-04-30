@@ -1,6 +1,6 @@
 DB_CONFIG = {
-    'host': '127.0.0.1',
+    'host': 'tmp-test.cslwejl6xjdl.ap-south-1.rds.amazonaws.com',
     'user': 'root',
-    'password': 'test@123',
+    'password': 'Makemehappy1409#',
     'database': 'telephone_directory'
 }

@@ -12,7 +12,7 @@ app.secret_key = 'testkey'
 
 UPLOAD_FOLDER = 'static/uploads'
 ALLOWED_EXTENSIONS = {'png', 'jpg', 'jpeg', 'gif'}
-S3_BUCKET = 'tmp-dir-test'
+S3_BUCKET = 'tkm-aws-workshop'
 S3_REGION = 'ap-south-1'
 s3_client = boto3.client('s3')
 
